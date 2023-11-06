@@ -5,8 +5,8 @@
 	<title>Modelo-vista-controlador</title>
 </head>
 <body>
-	<h1>Base de datos</h1>
-	<h1>Tabla</h1>
+	<h1>Base de datos Volaris</h1>
+	<h1>Tabla equipaje</h1>
 	<h1>Martin Cobos</h1>
 	<table border="1" >
 		<tr>
